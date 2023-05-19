@@ -11,3 +11,24 @@ a {
     color: var(--bs-link-color);
     text-decoration: none !important;
 }
+
+.counters{
+    margin-right: 2vw;
+    width: 5vw;
+    text-align: center;
+}
+.media{
+    border-bottom: 1px solid #ede9e9;
+    margin-bottom: 2em;
+}
+
+.media-body{
+    margin-bottom: 5vh;
+}
+.invalid-feedback{
+    display: block;
+}
+span .help-block .form-error{
+    color: red !important;
+}
+
